@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 Disallow: /app/
-Sitemap: https://strideai.net/sitemap.xml
+Sitemap: https://www.strideai.net/sitemap.xml
