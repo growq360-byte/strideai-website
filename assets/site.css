@@ -347,3 +347,5 @@ ol.wp-src li{margin-bottom:8px;overflow-wrap:anywhere}.wp-notices p{margin:0 0 1
 table.spec.ed.wp5 th[scope=row]{width:20%}table.spec.ed.wp5 td:nth-child(2){width:15%}table.spec.ed.wp5 td:nth-child(3){width:21%}table.spec.ed.wp5 td:nth-child(4){width:30%}table.spec.ed.wp5 td:nth-child(5){width:14%}
 table.spec.ed.wp5{table-layout:fixed}table.spec.ed.wp5 thead th:nth-child(1){width:20%}table.spec.ed.wp5 thead th:nth-child(2){width:15%}table.spec.ed.wp5 thead th:nth-child(3){width:21%}table.spec.ed.wp5 thead th:nth-child(4){width:30%}table.spec.ed.wp5 thead th:nth-child(5){width:14%}@media (max-width:700px){table.spec.ed.wp5{table-layout:auto}}
 .pod-disc{font-size:12.5px;line-height:1.5;opacity:.85;margin-top:10px}
+
+.adv p.bio{margin-top:12px;font-size:14.5px;line-height:1.55;color:#AFC0D8}
